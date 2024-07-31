@@ -1,0 +1,5 @@
+site/backend/node_modules
+./site/backend/node_modules
+
+site/backend/.env
+./site/backend/.env
